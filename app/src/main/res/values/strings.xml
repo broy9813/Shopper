@@ -5,4 +5,6 @@
     <string name="title_activity_create_list">Create List</string>
     <string name="name">Name</string>
     <string name="date">date</string>
+    <string name="title_activity_view_liswt">View List</string>
+    <string name="action_add_item">Add Item</string>
 </resources>

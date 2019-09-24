@@ -44,8 +44,6 @@
                 android:id="@+id/storeTextView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:ems="10"
-                android:inputType="textPersonName"
                 android:text="Store" />
 
             <EditText
